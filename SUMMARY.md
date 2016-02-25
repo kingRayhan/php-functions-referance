@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [String Functions](string-functions.md)
+
