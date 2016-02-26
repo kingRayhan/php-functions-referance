@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [String Functions](string-functions.md)
-   * [strtoupper()](strtoupper)
+   * [strtoupper()](strtoupper.md)
 
